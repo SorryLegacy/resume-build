@@ -89,5 +89,5 @@ python generate_resume.py -i my_data.json -o my_resume.docx --pdf
 
 ## Лицензия
 
-MIT
+Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для подробностей.
 
