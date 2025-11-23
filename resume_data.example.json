@@ -1,0 +1,110 @@
+{
+  "personal_info": {
+    "name": "Иван Иванов",
+    "email": "ivan.ivanov@example.com",
+    "phone": "+7 (999) 123-45-67",
+    "location": "Москва, Россия",
+    "linkedin": "https://linkedin.com/in/ivan-ivanov",
+    "github": "https://github.com/ivan-ivanov"
+  },
+  "summary": "Опытный разработчик с более чем 3 годами опыта в создании веб-приложений и мобильных решений. Специализируюсь на backend-разработке и работе с облачными технологиями. Имею опыт работы над проектами различного масштаба - от стартапов до крупных корпоративных систем.",
+  "experience": [
+    {
+      "position": "Senior Backend Developer",
+      "company": "Технологическая компания",
+      "period": "2022 - настоящее время",
+      "description": [
+        "Разработка и поддержка микросервисной архитектуры",
+        "Проектирование и реализация RESTful API",
+        "Оптимизация производительности и масштабируемости приложений",
+        "Работа с базами данных и кэшированием",
+        "Написание unit-тестов и интеграционных тестов",
+        "Менторинг junior-разработчиков",
+        "Технологический стек: Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes"
+      ]
+    },
+    {
+      "position": "Backend Developer",
+      "company": "IT-компания",
+      "period": "2020 - 2022",
+      "description": [
+        "Разработка backend-части веб-приложений",
+        "Интеграция с внешними API и сервисами",
+        "Работа с базами данных и ORM",
+        "Участие в code review и планировании спринтов",
+        "Технологический стек: Python, Django, PostgreSQL, Celery, RabbitMQ"
+      ]
+    },
+    {
+      "position": "Junior Developer",
+      "company": "Стартап",
+      "period": "2019 - 2020",
+      "description": "Разработка функционала для веб-приложения, работа с базами данных, написание тестов. Технологии: Python, Flask, SQLite."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Бакалавр",
+      "school": "Факультет информатики, Московский государственный университет",
+      "period": "2015-2019"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "FastAPI",
+    "Flask",
+    "PostgreSQL",
+    "MySQL",
+    "Redis",
+    "MongoDB",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Git",
+    "Linux",
+    "REST API",
+    "GraphQL",
+    "Celery",
+    "RabbitMQ",
+    "JavaScript",
+    "TypeScript",
+    "React"
+  ],
+  "additional_sections": [
+    {
+      "title": "Языки",
+      "content": [
+        {
+          "key": "Русский",
+          "value": "Родной"
+        },
+        {
+          "key": "Английский",
+          "value": "Продвинутый (C1)"
+        }
+      ]
+    },
+    {
+      "title": "Сертификаты",
+      "content": [
+        "AWS Certified Solutions Architect - Associate (2023)",
+        "Docker Certified Associate (2022)"
+      ]
+    },
+    {
+      "title": "Проекты",
+      "content": [
+        {
+          "key": "Open Source проект",
+          "value": "Разработка библиотеки для работы с API (GitHub: 500+ stars)"
+        },
+        {
+          "key": "Личный проект",
+          "value": "Веб-приложение для управления задачами с использованием React и Django"
+        }
+      ]
+    }
+  ]
+}
+
